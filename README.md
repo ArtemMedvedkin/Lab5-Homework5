@@ -1,9 +1,9 @@
 <h1>Домашнее задание к работе 5</h1>
 <h1>Вариант 14</h1>
 <h2>Условие задачи</h2>
-<img width="150" height="500" alt="image" src="https://github.com/ArtemMedvedkin/Lab5-Homework5/blob/main/image.png" />
+<img width="500" height="150" alt="image" src="https://github.com/ArtemMedvedkin/Lab5-Homework5/blob/main/image1.png" />
 <h2>Алгоритм и блок схема функции zd</h2>
-<img width="150" height="500" alt="image" src="https://github.com/ArtemMedvedkin/Lab5-Homework5/blob/main/image.png" />
+<img width="350" height="700" alt="image" src="https://github.com/ArtemMedvedkin/Lab5-Homework5/blob/main/image.png" />
 <h2>Реализация программы</h2>
 #define _CRT_SECURE_NO_DEPRECATE<br>
 #define _USE_MATH_DEFINES <br>
